@@ -1,3 +1,4 @@
 {
-    "vscode.tsc.compiler.alertTSConfigChanges": "never"
+    "vscode.tsc.compiler.alertTSConfigChanges": "never",
+    "python.pythonPath": "C:\\Users\\Joey\\.virtualenvs\\Backend-fcyw9PDz\\Scripts\\python.exe"
 }

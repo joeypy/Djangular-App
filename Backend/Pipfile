@@ -7,6 +7,13 @@ verify_ssl = true
 
 [packages]
 django = "==2.2.10"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.8"
+
+[scripts]
+server = "python manage.py runserver"
